@@ -1,4 +1,3 @@
-FROM httpd
+/** FROM httpd
 ADD . /var/www/html
-EXPOSE 80
-
+*/ EXPOSE 80
